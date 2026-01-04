@@ -39,7 +39,7 @@ const userSchema: Schema<UserTS> = new Schema(
 		},
 	},
 	{
-		timestamps: true, // automatically add createdAt and updatedAt
+		timestamps: true, 
 	}
 );
 
